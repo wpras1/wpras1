@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=100&section=header"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"/>
 </p>
 
 <h2 align="center"> Hi there 👋 I'm Wahyu Prasetyo, <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
@@ -12,9 +12,9 @@
 - 📫 How to reach me: wahyupras.work@gmail.com
 <br/>
   
-<a href="https://linkedin.com/in/wahyuprasetyow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shuvo Halder" height="30" width="40" /></a>
-<a href="https://instagram.com/wpras_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="CybSam" height="30" width="40" /></a>
- <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cybsam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wahyuprasetyow" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Wahyu Prasetyo" height="50" width="50" /></a>
+<a href="https://instagram.com/wpras_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Wahyu Prasetyo" height="50" width="50" /></a>
+ <a href="https://twitter.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Wahyu Prasetyo" height="50" width="50" /></a>
 </p>
 
 <h2>💻 Web and Mobile App Developer 📱</h2>
