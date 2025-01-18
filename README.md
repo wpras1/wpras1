@@ -19,7 +19,7 @@
 
 <h2>💻 Web and Mobile App Developer 📱</h2>
 <p>
-  <strong>Languages:</strong><br><br>
+  <strong>📚 Languages:</strong><br><br>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -31,7 +31,7 @@
 </p>
 <br>
 <p>
-  <strong>Frameworks:</strong><br><br>
+  <strong>🌐 Frameworks:</strong><br><br>
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff" alt="Vue" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -41,7 +41,7 @@
 <br>
 
 <p>
-  <strong>Tools:</strong><br><br>
+  <strong>🛠️ Tools:</strong><br><br>
 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
