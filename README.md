@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center"> Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="25"> I'm Wahyu Prasetyo, <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<h3 align="center">Technology Information (IT) Undergraduate </h3>
+<h3 align="center">Information Technology (IT) Undergraduate </h3>
 <h4 align="center">committed to evolution</h4>
 <br />
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wpras1&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p> -->
