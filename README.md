@@ -7,7 +7,14 @@
 <h3 align="center">Information Technology (IT) Undergraduate </h3>
 <h4 align="center">committed to evolution</h4>
 <br />
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wpras1&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p> -->
+
+<!-- <p align="center">
+  <a href="https://github.com/sip-Userbot/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;1%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> -->
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 - 📫 How to reach me: wahyupras.work@gmail.com
